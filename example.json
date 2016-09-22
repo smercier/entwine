@@ -51,8 +51,7 @@
         // filesystem path.
         "tmp":  "/tmp",
 
-        // TODO Currently ignored - always compressed.
-        // True to compress output.
+        // True to compress output (lzma).
         "compress": true
     },
     "structure": {

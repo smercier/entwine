@@ -51,7 +51,7 @@ The default settings are fine for many datasets, but Entwine provides many param
 
 |
 
-If the command line overrides are insufficient, you can get developer-level control over the indexing parameters by passing a JSON configuration file, for example ``entwine build config.json``.  There is a commented template for this configuration file `here <https://raw.githubusercontent.com/connormanning/entwine/master/template.json>`_.
+If the command line overrides are insufficient, you can get developer-level control over the indexing parameters by passing a JSON configuration file, for example ``entwine build config.json``.  There is a commented template for this configuration file `here <https://raw.githubusercontent.com/connormanning/entwine/master/example.json>`_.
 
 .. _`PDAL`: http://pdal.io
 .. _`Docker`: http://docker.com
